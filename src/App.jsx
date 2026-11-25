@@ -15,7 +15,7 @@ const profile = {
 
 const education = [
   { id: 1, degree: 'BS Computer Science', school: 'University of Engineering and Technology, Taxila', years: '2022 – 2026' },
-  { id: 2, degree: 'Intermediate', school: 'Punjab College', years: '2020 – 2022' },
+  { id: 2, degree: 'Intermediate', school: 'Punjab Group of Colleges', years: '2020 – 2022' },
 ]
 
 const skills = ['HTML', 'CSS', 'JavaScript', 'React', 'Git & GitHub', 'Responsive Design']
